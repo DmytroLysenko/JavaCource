@@ -1,1 +1,1 @@
-# JavaCource
+# Java Cource - Homework repository
